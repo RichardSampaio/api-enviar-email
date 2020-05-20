@@ -1,4 +1,4 @@
-## Mail Service
+## API para enviar e-mail
 
 Install
 
